@@ -1,10 +1,10 @@
 {
-"Title": "کانال VIP رایگان شد !",
-"Description": "✌🏻 اگر میخوای مثل بقیه کسایی که تو کانال VIP این کانال عضون خونه،ماشین،روابط و ثروت رویاهات برسی، عضو کانال مخفی زیر بشو 💵\n💎 معجزه زندگیت منتظرته",
-"Link": "tg://join?invite=L1z6z66OzqwwOGY8",
-"ColorWave": "#76FF03",
-"Color": "#76FF03",
-"ColorWaveTwo": "#64DD17",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Vpn_Shield",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "111100001367",
-"ShowTime": "3",
-"Button": "  عضویت اجباری در کانال Vip  ",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
 "ButtonCancell": " بعدا ",
-"Closure": "true",
+"Closure": "false",
 "Show": "on"
 }
