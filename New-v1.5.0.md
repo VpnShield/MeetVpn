@@ -1,10 +1,10 @@
 {
-"Title": "☆  بروزرسانی جدید  ☆",
-"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
-"Link": "tg://resolve?domain=Vpn_Shield",
+"Title": "Vpn Shield | Free For All ⚡️",
+"Description": "سلام دوست عزیزم ، این برنامه توسط کانال Vpn Shield مود شده !\n\n- پرسرعت‌ترین فیلترشکن حال حاظر داخل کانال قرار دادیم ، حتما امتحان کنید 😎👇🏻",
+"Link": "tg://join?invite=OCoK8Tu1SNk2NzBk",
 "ColorWave": "#FFFF00",
 "Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"ColorWaveTwo": "#FFC400",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "1",
-"ShowTime": "999",
-"Button": "  دریافت نسخه جدید  ",
+"MessageID": "01237668558585",
+"ShowTime": "3",
+"Button": "عضویت اجباری در تلگرام",
 "ButtonCancell": " بعدا ",
-"Closure": "false",
+"Closure": "true",
 "Show": "on"
 }
